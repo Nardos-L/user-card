@@ -43,3 +43,7 @@ h1,p {
 .user-card{
     margin-top: 20px;
 }
+
+.location p {
+    font-size: larger;
+}
